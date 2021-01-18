@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd7d39a-f601-48ca-8f22-e8dbd08e4002" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nGIUS7wd1H3BnLg9jOUaTU5zWz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FibonacijevNiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacijevniz.FibonacijevNiz" />
+      <module name="FibonacijevNiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fibonacijevniz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FibonacijevNiz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd7d39a-f601-48ca-8f22-e8dbd08e4002" name="Default Changelist" comment="" />
+      <created>1611010017074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611010017074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1611010164765">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1611010164765" />
+    <state width="1340" height="206" key="GridCell.Tab.0.center" timestamp="1611010164764">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1611010164764" />
+    <state width="1340" height="206" key="GridCell.Tab.0.left" timestamp="1611010164764">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1611010164764" />
+    <state width="1340" height="206" key="GridCell.Tab.0.right" timestamp="1611010164764">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1611010164764" />
+    <state x="541" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1611010048368">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="541" y="258" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1611010048368" />
+  </component>
+</project>
